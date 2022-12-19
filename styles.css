@@ -1,12 +1,11 @@
 
 /* Your CSS Code here. */
 main {
-    width: 150;
-    height: 150;
+    width: 150px; 150px;
     background-color: black;
 }
 
-h1 {
+p {
     color: white;
     margin-left: 32px;
     padding: 10px;
